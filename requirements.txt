@@ -1,0 +1,12 @@
+Django
+djangorestframework
+psycopg2
+drf-spectacular
+Pillow
+mutagen
+stripe
+django-cors-headers
+django-cloudinary-storage
+cloudinary
+djoser
+djangorestframework_simplejwt
